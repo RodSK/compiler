@@ -1,0 +1,12 @@
+---
+:id: 54553321
+:submitters:
+- :name: Dennis Popovs
+  :email: dennis.popovs001@umb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-10 17:45:17.381985000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-10 09:45:17.381985000 Z
+:status: processed
+:score: 92.5
